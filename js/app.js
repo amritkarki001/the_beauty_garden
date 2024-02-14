@@ -97,7 +97,7 @@
 					}  
 				},
 				marker:{
-					address: "40 Sibley St, Detroit",
+					address: "Pokhara Srijanachowk, Nepal",
 				}
 			},
 			"autofit" );
